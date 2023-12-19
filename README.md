@@ -1,2 +1,4 @@
-# cuckoo-music-flutter
-咕音 - CloudMusic
+# 咕音
+>毕业设计应用
+>
+>等时机成熟再开源，目前仓管占坑中
